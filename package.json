@@ -1,0 +1,23 @@
+{
+  "name": "k6_performance-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashanth1319/k6_Performance-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/prashanth1319/k6_Performance-testing/issues"
+  },
+  "homepage": "https://github.com/prashanth1319/k6_Performance-testing#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.13"
+  }
+}
